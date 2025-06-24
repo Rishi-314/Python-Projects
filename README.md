@@ -14,7 +14,7 @@ The program collects input from the user—like their name, a YouTuber's name, a
 
 ![MadLib Output](./images/madlib.png)
 
-# 🎬 Guess the number through USER  
+ Guess the number through USER  
 - Project-2 2_madlib.py
 
 The Program makes the user guess a random number 
