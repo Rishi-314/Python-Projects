@@ -16,8 +16,8 @@ The program collects input from the user—like their name, a YouTuber's name, a
 
  Guess the number through USER  
 - Project-2 2_madlib.py
-
-The Program makes the user guess a random number 
+- 
+The Program makes the user guess a random number
 ---
 
 ### Output 
