@@ -12,7 +12,7 @@ The program collects input from the user—like their name, a YouTuber's name, a
 
 ### Output 
 
-![MadLib Output](./images/madlib.png)
+![Output](./images/madlib.png)
 
 # Guess the number through USER  
 - Project-2 2_madlib.py
@@ -21,6 +21,6 @@ The program collects input from the user—like their name, a YouTuber's name, a
 
 ### Output 
 
-![MadLib Output](./images/guess_the_number_user.png)
+![Output](./images/guess_the_number_user.png)
 
 
